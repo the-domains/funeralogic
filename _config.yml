@@ -1,0 +1,14 @@
+layout_spectrum: 0.03205143893137574
+typography_spectrum: 0.8688289667479694
+color:
+  brandStrength: 0.83684634976089
+  lightness: 0.423994051059708
+  saturation: 0.6024786133784801
+  rhythmicContrast: 0.7954763530287892
+  brandColors:
+    - '#304269'
+    - '#91BED4'
+    - '#D9E8F5'
+    - '#FFFFFF'
+    - '#F26101'
+name: FuneraLogic
